@@ -1,0 +1,29 @@
+[33mcommit 3633ec9b3bb8e2e7acfba1c0bfb3608bf9ec3d23[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mlogowanie[m[33m)[m
+Author: ”Nazwisko_Imie” <”mail@example.com”>
+Date:   Mon May 27 01:41:54 2024 +0200
+
+    Szosty commit - logowanie 2
+
+[33mcommit b36207355bb812c5d07e8393f9d2b9d6e4137bae[m
+Author: ”Nazwisko_Imie” <”mail@example.com”>
+Date:   Mon May 27 01:40:54 2024 +0200
+
+    Piaty commit - logowanie
+
+[33mcommit b6ba883e4b8c35fb4488fa250e3eba6d010982d3[m
+Author: ”Nazwisko_Imie” <”mail@example.com”>
+Date:   Mon May 27 01:38:58 2024 +0200
+
+    Czwarty commit – zmiana plików C.txt i D.txt
+
+[33mcommit 560433b424992f7408b08f698cc61ad296a859dc[m
+Author: ”Nazwisko_Imie” <”mail@example.com”>
+Date:   Mon May 27 01:31:57 2024 +0200
+
+    Drugi commit – przesłanie trzech plików do repozytorium
+
+[33mcommit 83212386ec76f78cfac472b2262b64a2b93fec55[m
+Author: ”Nazwisko_Imie” <”mail@example.com”>
+Date:   Mon May 27 01:30:06 2024 +0200
+
+    Pierwszy commit – dodanie pliku A.txt
